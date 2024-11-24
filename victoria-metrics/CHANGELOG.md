@@ -1,3 +1,28 @@
+## 1.9.3
+
+- Updated to VictoriaMetrics 1.103.0
+- Updated some links in the documentation
+
+## 1.9.2
+
+- Updated to VictoriaMetrics 1.102.1
+- Updated documentation
+
+## 1.9.1
+
+- Updated to VictoriaMetrics 1.100.0
+- Add HomeAssistant SSL directory to container
+- Add additional parameter info to docs
+- Add Graphite port and instructions
+
+## 1.8.23
+
+- Updated to VictoriaMetrics 1.99.0
+
+## 1.8.22
+
+- Updated to VictoriaMetrics 1.95.1
+
 ## 1.8.20
 
 - Updated to VictoriaMetrics 1.91.2
